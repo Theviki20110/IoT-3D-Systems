@@ -6,6 +6,6 @@ Creiamo un sistema di monitoring della salute avente i seguenti sensori:
 
 * Temperatura
 * Pressione
-* EEG
-* ECG
-* EMG
+* EEG (ElettroEncefaloGramma)
+* ECG (ElettroCardioGramma)
+* EMG (Elettromyography)
